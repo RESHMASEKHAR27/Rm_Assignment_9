@@ -1,4 +1,5 @@
 # Rm_Assignment_9
+(API_Assignment_2)
 
 1.Create Asp.net Core Rest API Project
 2.Creaet a Model class Movie(MovieId,MovieName,Lang,ReleaseYear,Actor,Director) and apply the required validations to the movie model
